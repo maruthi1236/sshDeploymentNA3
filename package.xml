@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>41.0</version>
+    <types>
+        <members>CaseContactRole</members>
+        <members>CollaborationGroup</members>
+        <members>RecordTypeObj__c</members>
+        <members>autoObject__c</members>
+        <members>autoRabitObject__c</members>
+        <members>rabitObject__c</members>
+        <members>wellsforgoChildObj__c</members>
+        <members>wellsforgoParentObj__c</members>
+        <name>CustomObject</name>
+    </types>
+</Package>
